@@ -3,7 +3,7 @@
 #include<conio.h>
 #include<time.h>
 #include<windows.h>
-#define MAXDISK 5
+#define MAXDISK 8
 int Col[MAXDISK+1][3];
 int Mark[3];
 int put,cursor;
